@@ -59,7 +59,7 @@ driver.find_element_by_id("example_Password").send_keys(password_example2)
 driver.find_element_by_css_selector("example_input[type='submit'][class='submit-button'][value='Log in']").click()
 ```
 
-Opening of the fourth website (opening the website in new tab, click on the icon login, filling in the login and password fields, click on the login button):
+Opening of the fourth website (opening the website in new tab, click the login element which will display the login form fields, filling in the login and password fields, click on the login button):
 
 ```python
 username_example3 = "example_123456"
