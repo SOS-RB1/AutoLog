@@ -72,9 +72,8 @@ driver.find_element_by_id("example_ctl00_box_2_abcBoxContainer_box_2_abcBoxConta
 driver.find_element_by_id("example_ctl00_box_2_abcBoxContainer_box_2_abcBoxContainer_box_2_tbPassword").send_keys(password_example3)
 driver.find_element_by_name("example_ctl00$box_2$abcBoxContainer$box_2$abcBoxContainer$box_2$btnLogin").click()
 ```
-
-![](elements.jpg)
 To identify the HTML elements of a website, right-click on its area. Select inspect from the menu.
+![](elements.jpg)
 
 ### Issues
 
