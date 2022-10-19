@@ -74,7 +74,7 @@ driver.find_element_by_name("example_ctl00$box_2$abcBoxContainer$box_2$abcBoxCon
 ```
 To identify the HTML elements of a website, right-click on its area. Select inspect from the menu.
 
-![](elements.jpg)
+![print screen excerpt](elements.jpg)
 
 ### Issues
 
